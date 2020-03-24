@@ -1,3 +1,5 @@
+## EDIT:  https://www.hackcovid.tech
+
 ## Proposition
 
 Do you think it would be a good idea to organize a hackathon to develop applications that would help institutions, doctors, teachers to solve real COVID-19 related problems?
